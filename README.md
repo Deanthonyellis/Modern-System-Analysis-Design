@@ -18,21 +18,18 @@ It's important to consider the user's needs because they are the ones who will p
 I will go back and used the document and my notes and resources to complete it.
 
 # Skills Demonstrated:
-Documentation:
 
-# Ability to create clear, actionable recommendations.
+# Documentation:
+Ability to create clear, actionable recommendations.
 Experience in breaking down complex documentation into manageable parts.
-Project Management:
-
-# Effective time management by working on sections over a week.
+# Project Management:
+Effective time management by working on sections over a week.
 Prioritization and focus to ensure accuracy.
-User-Centered Design:
-
-# Understanding and implementing user needs in software design.
+# User-Centered Design:
+Understanding and implementing user needs in software design.
 Ensuring that design decisions align with user expectations.
-Software Design and Development:
-
-# Designing for multi-platform compatibility.
+# Software Design and Development:
+Designing for multi-platform compatibility.
 Utilizing documentation and resources to guide the design process.
 Analysis and Improvement:
 
